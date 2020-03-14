@@ -50,20 +50,6 @@ springBoot {
 repositories {
     jcenter()
     mavenCentral()
-    /*maven {
-        url "http://nexus.redb.ee/content/repositories/redbee-snapshot/"
-        credentials {
-            username 'usernameNexusRedBee'
-            password 'passwordNexusRedBee'
-        }
-    }
-    maven {
-        url "http://nexus.redb.ee/content/repositories/redbee-release/"
-        credentials {
-            username 'usernameNexusRedBee'
-            password 'passwordNexusRedBee'
-        }
-    }*/
 }
 
 
