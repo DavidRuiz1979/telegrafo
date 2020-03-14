@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telegrafo.service.TelegrafoServiceSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-14T15:19:50" hostname="NB-GYL" time="2.36">
+  <properties/>
+  <testcase name="test method translate2Human" classname="com.telegrafo.service.TelegrafoServiceSpec" time="2.146"/>
+  <testcase name="test method decodeBits2Morse" classname="com.telegrafo.service.TelegrafoServiceSpec" time="0.197"/>
+  <testcase name="test method translate2Morse" classname="com.telegrafo.service.TelegrafoServiceSpec" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
